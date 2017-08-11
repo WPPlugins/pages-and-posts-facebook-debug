@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pages and Posts Facebook Debug\n"
+"POT-Creation-Date: 2016-06-20 02:45+0200\n"
+"PO-Revision-Date: 2016-06-20 02:45+0200\n"
+"Last-Translator: ERALION.com <contact@eralion.com>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: pagesandpostsfacebookdebugguer.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/dashboard.php:38 inc/panel.php:35
+msgid "A total of "
+msgstr "Un total de"
+
+#: inc/dashboard.php:38 inc/panel.php:35
+msgid "Page "
+msgstr "Page"
+
+#: inc/dashboard.php:38 inc/panel.php:35
+msgid "and"
+msgstr "et"
+
+#: inc/dashboard.php:38 inc/panel.php:35
+msgid "Post"
+msgstr "Article"
+
+#: inc/dashboard.php:38 inc/panel.php:35
+msgid "has been found"
+msgstr "a été trouvé"
+
+#: inc/dashboard.php:38 inc/panel.php:35
+msgid "Automatic debug when updating a page/post"
+msgstr "Debug automatique lors d'une mise à jour de page/article"
+
+#: inc/dashboard.php:38 inc/dashboard.php:63 inc/dashboard.php:74
+#: inc/panel.php:35 inc/panel.php:60 inc/panel.php:71
+msgid "Start debug of all URLs"
+msgstr "Démarrer le debug de toutes les URLs"
+
+#: inc/dashboard.php:61 inc/dashboard.php:67 inc/metaboxes.php:16
+#: inc/metaboxes.php:42 inc/panel.php:58 inc/panel.php:64
+msgid "Cache cleaning finished"
+msgstr "Nettoyage du cache terminé"
+
+#: inc/dashboard.php:63 inc/dashboard.php:64 inc/dashboard.php:65
+#: inc/dashboard.php:66 inc/metaboxes.php:12 inc/metaboxes.php:13
+#: inc/metaboxes.php:14 inc/metaboxes.php:15 inc/panel.php:60 inc/panel.php:61
+#: inc/panel.php:62 inc/panel.php:63
+msgid "Cleaning in progress"
+msgstr "Nettoyage en cours"
+
+#: inc/dashboard.php:84 inc/panel.php:81
+msgid "Debug start on "
+msgstr "Debug démarré sur"
+
+#: inc/dashboard.php:84 inc/panel.php:81
+msgid "completed"
+msgstr "finalisé"
+
+#: inc/dashboard.php:101 inc/dashboard.php:115 inc/panel.php:98
+#: inc/panel.php:112
+msgid "Process completed !"
+msgstr "Opération terminée !"
+
+#: inc/metaboxes.php:9 inc/metaboxes.php:12 inc/metaboxes.php:23
+msgid "Empty Facebook cache"
+msgstr "Vider le cache Facebook"
+
+#. Plugin Name of the plugin/theme
+msgid "Facebook Debug"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Add a widget on the Wordpress Dashboard that let you debug all your URLs on "
+"the Facebook Debugguer tool to scrape new informations."
+msgstr ""
+"Ajoute un widget sur le tableau de bord Wordpress qui vous permet d'envoyer "
+"toutes les adresses de vos pages et articles vers l'outil de debug Facebook "
+"afin de mettre à jour les nouvelles informations."
+
+#. Author of the plugin/theme
+msgid "<a href=\"http://www.eralion.com\" target=\"_blank\">ERALION.com</a>"
+msgstr ""
